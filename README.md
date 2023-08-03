@@ -4,7 +4,7 @@ This is a website where students can apply for placements and can view the resum
 
 #skills
 
-HTML
-CSS
-JAVASCRIPT
-PHP
+HTML,
+CSS,
+JAVASCRIPT,
+PHP.
